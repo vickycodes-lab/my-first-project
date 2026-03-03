@@ -7,3 +7,4 @@ Vicky Mishra
 
 ## Goal
 Become Data Analyst
+Practicing git pull command.
